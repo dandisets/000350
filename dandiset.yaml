@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000350
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.3/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -59,15 +60,38 @@ description: 'When a behavior repeatedly fails to achieve its goal, animals ofte
   astrocytes perform a computation critical for behavior: they accumulate evidence
   that current actions are ineffective and consequently drive changes in behavioral
   states.'
+ethicsApproval: []
 id: DANDI:000350/draft
 identifier: DANDI:000350
+keywords:
+- neuroscience
+- glia
+- astrocytes
+- norepinephrine
+- noradrenaline
+- learned helplessness
+- neuromodulation
+- behavioral states
+- evidence accumulation
+- zebrafish
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000350/versions/draft/assets/
 name: Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior
+protocol: []
+relatedResource:
+- identifier: https://doi.org/10.1016/j.cell.2019.05.050
+  name: Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful
+    Behavior
+  relation: dcite:IsDescribedBy
+  repository: Cell
+  schemaKey: Resource
+  url: https://www.sciencedirect.com/science/article/pii/S009286741930621X
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000350/draft
 version: draft
+wasGeneratedBy: []
