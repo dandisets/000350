@@ -35,16 +35,129 @@ assetsSummary:
   - TwoPhotonSeries
   - ProcessingModule
   - ImagingPlane
-citation: Baker, Cody (2022) Glia Accumulate Evidence that Actions Are Futile and
-  Suppress Unsuccessful Behavior (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
+citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Narayan, Sujatha; Yang, Chao-Tsung;
+  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B. (2022) Glia
+  Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
 contributor:
-- affiliation: []
-  email: cody.c.baker.phd@gmail.com
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  email: muy@janelia.hhmi.org
+  identifier: 0000-0001-9297-4854
   includeInCitation: true
+  name: Mu, Yu
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:DataCollector
+  - dcite:DataManager
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  - identifier: https://ror.org/024mw5h28
+    name: University of Chicago
+    schemaKey: Affiliation
+  identifier: 0000-0002-5056-407X
+  includeInCitation: true
+  name: Bennett, Davis V.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  - identifier: https://ror.org/02vm5rt34
+    name: Vanderbilt University
+    schemaKey: Affiliation
+  identifier: 0000-0002-4787-7075
+  includeInCitation: true
+  name: Rubinov, Mikail
+  roleName:
+  - dcite:Author
+  - dcite:FormalAnalysis
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Narayan, Sujatha
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Yang, Chao-Tsung
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Tanimoto, Masashi
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: 'Mensh, Brett D. '
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Looger, Loren L.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  email: ahrensm@janelia.hhmi.org
+  identifier: 0000-0002-3457-4462
+  includeInCitation: true
+  name: Ahrens, Misha B.
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:Investigation
+  - dcite:ProjectLeader
+  - dcite:ProjectManager
+  - dcite:ProjectAdministration
+  schemaKey: Person
+  url: https://www.janelia.org/lab/ahrens-lab
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
+  email: cody.c.baker.phd@gmail.com
+  identifier: 0000-0002-0829-4790
+  includeInCitation: false
   name: Baker, Cody
   roleName:
-  - dcite:ContactPerson
+  - dcite:Software
+  - dcite:DataCurator
   schemaKey: Person
+  url: https://www.catalystneuro.com/team/
 dateCreated: '2022-10-30T19:50:01.557863+00:00'
 description: 'When a behavior repeatedly fails to achieve its goal, animals often
   give up and become passive, which can be strategic for preserving energy or regrouping
@@ -91,7 +204,10 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
-studyTarget: []
+studyTarget:
+- motor activity
+- whole-brain
+- radial astrocytes
 url: https://dandiarchive.org/dandiset/000350/draft
 version: draft
 wasGeneratedBy: []
