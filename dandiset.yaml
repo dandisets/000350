@@ -86,6 +86,7 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  identifier: 0000-0002-3741-1319
   includeInCitation: true
   name: Narayan, Sujatha
   roleName:
@@ -104,6 +105,7 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  identifier: 0000-0002-7653-1081
   includeInCitation: true
   name: Tanimoto, Masashi
   roleName:
@@ -113,6 +115,7 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  identifier: 0000-0003-2288-054X
   includeInCitation: true
   name: 'Mensh, Brett D. '
   roleName:
@@ -122,6 +125,7 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  identifier: 0000-0002-7531-1757
   includeInCitation: true
   name: Looger, Loren L.
   roleName:
