@@ -38,7 +38,7 @@ assetsSummary:
 citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Narayan, Sujatha; Yang, Chao-Tsung;
   Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B. (2022) Glia
   Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
+  0.221219.1506) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000350/0.221219.1506
 contributor:
 - affiliation:
   - identifier: https://ror.org/013sk6x84
@@ -181,6 +181,7 @@ contributor:
   schemaKey: Organization
   url: https://www.simonsfoundation.org
 dateCreated: '2022-10-30T19:50:01.557863+00:00'
+datePublished: '2022-12-19T15:06:22.863812+00:00'
 description: 'When a behavior repeatedly fails to achieve its goal, animals often
   give up and become passive, which can be strategic for preserving energy or regrouping
   between attempts. It is unknown how the brain identifies behavioral failures and
@@ -195,8 +196,9 @@ description: 'When a behavior repeatedly fails to achieve its goal, animals ofte
   astrocytes perform a computation critical for behavior: they accumulate evidence
   that current actions are ineffective and consequently drive changes in behavioral
   states.'
+doi: 10.48324/dandi.000350/0.221219.1506
 ethicsApproval: []
-id: DANDI:000350/draft
+id: DANDI:000350/0.221219.1506
 identifier: DANDI:000350
 keywords:
 - neuroscience
@@ -212,9 +214,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000350/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000350/0.221219.1506/assets.yaml
 name: Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior
 protocol: []
+publishedBy:
+  endDate: '2022-12-19T15:06:22.863812+00:00'
+  id: urn:uuid:ea2dec54-f680-49b0-a475-6e16237872ee
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-12-19T15:06:22.863812+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:d3819e2e-f005-4849-96b3-4e3ca4c4b748
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: https://doi.org/10.1016/j.cell.2019.05.050
   name: Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful
@@ -230,6 +244,6 @@ studyTarget:
 - motor activity
 - whole-brain
 - radial astrocytes
-url: https://dandiarchive.org/dandiset/000350/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000350/0.221219.1506
+version: 0.221219.1506
 wasGeneratedBy: []
