@@ -162,7 +162,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
   url: https://www.catalystneuro.com/team/
-- awardNumber: '325171'
+- awardNumber: ''
   contactPoint: []
   identifier: https://ror.org/006w34k90
   includeInCitation: false
@@ -171,7 +171,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.hhmi.org/
-- awardNumber: 542943SPI
+- awardNumber: 325171, 542943SPI
   contactPoint: []
   identifier: https://ror.org/01cmst727
   includeInCitation: false
