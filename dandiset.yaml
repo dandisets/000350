@@ -21,7 +21,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: two-photon microscopy technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 5865795299573
+  numberOfBytes: 5865795293845
   numberOfFiles: 12
   numberOfSubjects: 12
   schemaKey: AssetsSummary
@@ -36,7 +36,7 @@ assetsSummary:
   - OpticalChannel
   - ProcessingModule
 citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Narayan, Sujatha; Yang, Chao-Tsung;
-  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B. (2022) Glia
+  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B. (2023) Glia
   Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
 contributor:
