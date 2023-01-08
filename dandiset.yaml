@@ -35,10 +35,10 @@ assetsSummary:
   - ProcessingModule
   - ImagingPlane
   - PlaneSegmentation
-citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Narayan, Sujatha; Yang, Chao-Tsung;
-  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B. (2023) Glia
-  Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful Behavior (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
+citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Lim, Jing-Xuan; Yang, Chao-Tsung;
+  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B.; Narayan,
+  Sujatha (2023) Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful
+  Behavior (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/013sk6x84
@@ -83,14 +83,14 @@ contributor:
   - dcite:FormalAnalysis
   schemaKey: Person
 - affiliation:
-  - identifier: https://ror.org/013sk6x84
-    name: Janelia Research Campus
+  - identifier: https://ror.org/006w34k90
+    name: Howard Hughes Medical Institute
     schemaKey: Affiliation
-  identifier: 0000-0002-3741-1319
+  identifier: 0000-0002-5983-9164
   includeInCitation: true
-  name: Narayan, Sujatha
+  name: Lim, Jing-Xuan
   roleName:
-  - dcite:Author
+  - dcite:DataManager
   schemaKey: Person
 - affiliation:
   - identifier: https://ror.org/013sk6x84
@@ -162,7 +162,7 @@ contributor:
   - dcite:DataCurator
   schemaKey: Person
   url: https://www.catalystneuro.com/team/
-- awardNumber: ''
+- awardNumber: '325171'
   contactPoint: []
   identifier: https://ror.org/006w34k90
   includeInCitation: false
@@ -171,7 +171,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: http://www.hhmi.org/
-- awardNumber: 325171, 542943SPI
+- awardNumber: 542943SPI
   contactPoint: []
   identifier: https://ror.org/01cmst727
   includeInCitation: false
@@ -180,6 +180,16 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
   url: https://www.simonsfoundation.org
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
+  identifier: 0000-0002-3741-1319
+  includeInCitation: true
+  name: Narayan, Sujatha
+  roleName:
+  - dcite:Author
+  schemaKey: Person
 dateCreated: '2022-10-30T19:50:01.557863+00:00'
 description: 'When a behavior repeatedly fails to achieve its goal, animals often
   give up and become passive, which can be strategic for preserving energy or regrouping
