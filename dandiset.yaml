@@ -36,8 +36,8 @@ assetsSummary:
   - ImagingPlane
   - PlaneSegmentation
 citation: Mu, Yu; Bennett, Davis V.; Rubinov, Mikail; Lim, Jing-Xuan; Yang, Chao-Tsung;
-  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Ahrens, Misha B.; Narayan,
-  Sujatha (2023) Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful
+  Tanimoto, Masashi; Mensh, Brett D. ; Looger, Loren L.; Narayan, Sujatha; Ahrens,
+  Misha B. (2023) Glia Accumulate Evidence that Actions Are Futile and Suppress Unsuccessful
   Behavior (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000350/draft
 contributor:
 - affiliation:
@@ -135,6 +135,16 @@ contributor:
   - identifier: https://ror.org/013sk6x84
     name: Janelia Research Campus
     schemaKey: Affiliation
+  identifier: 0000-0002-3741-1319
+  includeInCitation: true
+  name: Narayan, Sujatha
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/013sk6x84
+    name: Janelia Research Campus
+    schemaKey: Affiliation
   email: ahrensm@janelia.hhmi.org
   identifier: 0000-0002-3457-4462
   includeInCitation: true
@@ -149,19 +159,6 @@ contributor:
   - dcite:ProjectAdministration
   schemaKey: Person
   url: https://www.janelia.org/lab/ahrens-lab
-- affiliation:
-  - identifier: https://ror.org/01d74sk53
-    name: CatalystNeuro
-    schemaKey: Affiliation
-  email: cody.c.baker.phd@gmail.com
-  identifier: 0000-0002-0829-4790
-  includeInCitation: false
-  name: Baker, Cody
-  roleName:
-  - dcite:Software
-  - dcite:DataCurator
-  schemaKey: Person
-  url: https://www.catalystneuro.com/team/
 - awardNumber: '325171'
   contactPoint: []
   identifier: https://ror.org/006w34k90
@@ -181,15 +178,18 @@ contributor:
   schemaKey: Organization
   url: https://www.simonsfoundation.org
 - affiliation:
-  - identifier: https://ror.org/013sk6x84
-    name: Janelia Research Campus
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
     schemaKey: Affiliation
-  identifier: 0000-0002-3741-1319
-  includeInCitation: true
-  name: Narayan, Sujatha
+  email: cody.c.baker.phd@gmail.com
+  identifier: 0000-0002-0829-4790
+  includeInCitation: false
+  name: Baker, Cody
   roleName:
-  - dcite:Author
+  - dcite:Software
+  - dcite:DataCurator
   schemaKey: Person
+  url: https://www.catalystneuro.com/team/
 dateCreated: '2022-10-30T19:50:01.557863+00:00'
 description: 'When a behavior repeatedly fails to achieve its goal, animals often
   give up and become passive, which can be strategic for preserving energy or regrouping
